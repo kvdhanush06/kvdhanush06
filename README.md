@@ -56,6 +56,7 @@ Currently, Co-Lead of Deep Learning & Computer Vision Team at The Machine Learni
 ---
 
 ## 🌐 Socials
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://allkvd.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/venkata-dhanush-k)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white)](https://github.com/kvdhanush06)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kvdhanush06)
