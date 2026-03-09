@@ -66,10 +66,3 @@ Backend developer experienced in building scalable FastAPI systems that serve 5k
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kvdhanush06@gmail.com)
 [![X](https://img.shields.io/badge/X-black?logo=X&logoColor=white)](https://x.com/kvdhanush06)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@UC8luCTH9QTvyiZPP6y4kLdg)
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kvdhanush06&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-[![](https://visitcount.itsvg.in/api?id=kvdhanush06&icon=0&color=0)](https://visitcount.itsvg.in)
