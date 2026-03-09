@@ -1,13 +1,7 @@
 # 👋 Hi, I'm Venkata Dhanush Kakarlamudi
 
 ## 💫 About Me
-Computer Science Engineering undergraduate at VIT-AP with experience in building scalable backend systems, applied AI, and software engineering.
-
-Previously, Backend Developer Intern at StudyCubs, where I developed real-time analytics pipelines and LLM-powered automation tools, delivering insights with sub-200ms latency.
-
-At AK Capital Advisors, I designed secure APIs and optimized database systems supporting large-scale financial workflows across microservices.
-
-Currently, Co-Lead of Deep Learning & Computer Vision Team at The Machine Learning Club VIT-AP, leading technical initiatives, mentoring teams, and driving research in generative models and training optimization.
+Backend developer experienced in building scalable FastAPI systems that serve 5k+ users at 200ms latency while delivering up to 50% efficiency gains through LLM-powered PostgreSQL solutions. Led multiple high-impact ML club projects that achieved 90%+ accuracy in real-time computer vision and GAN-based image synthesis systems.
 
 ---
 
@@ -55,6 +49,13 @@ Currently, Co-Lead of Deep Learning & Computer Vision Team at The Machine Learni
 
 ---
 
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=kvdhanush06&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=kvdhanush06&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kvdhanush06&theme=dark&hide_border=false&layout=compact)
+
+---
+
 ## 🌐 Socials
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://allkvd.me/)
 [![Resume](https://img.shields.io/badge/Resume-000000?logo=adobepdf&logoColor=white)](https://drive.google.com/file/d/1NCT6ZCa_HfxCdScqI-1Q2yA6y2c7O-qA/view)
@@ -64,21 +65,9 @@ Currently, Co-Lead of Deep Learning & Computer Vision Team at The Machine Learni
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30895562)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kvdhanush06@gmail.com)
 [![X](https://img.shields.io/badge/X-black?logo=X&logoColor=white)](https://x.com/kvdhanush06)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/kvdhanush06)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://reddit.com/user/ChestLimp1321)
-[![Quora](https://img.shields.io/badge/Quora-B92B27?logo=quora&logoColor=white)](https://quora.com/profile/Venkata-Dhanush-K)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@UC8luCTH9QTvyiZPP6y4kLdg)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/venkatadhanushk)
-[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?logo=pinterest&logoColor=white)](https://pinterest.com/kvdhanush06)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=white)](https://bsky.app/profile/kvdhanush06.bsky.social)
-[![Mastodon](https://img.shields.io/badge/Mastodon-2B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@kvdhanush06)
 
 ---
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=kvdhanush06&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=kvdhanush06&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kvdhanush06&theme=dark&hide_border=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=kvdhanush06&limit=5&theme=dark&combine_all_yearly_contributions=true)
