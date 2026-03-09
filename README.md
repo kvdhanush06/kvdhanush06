@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Venkata Dhanush Kakarlamudi
+# 👋 Hi, I'm Kakarlamudi Venkata Dhanush
 
 ## 💫 About Me
 Backend developer experienced in building scalable FastAPI systems that serve 5k+ users at 200ms latency while delivering up to 50% efficiency gains through LLM-powered PostgreSQL solutions. Led multiple high-impact ML club projects that achieved 90%+ accuracy in real-time computer vision and GAN-based image synthesis systems.
