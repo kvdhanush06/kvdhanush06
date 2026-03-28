@@ -1,58 +1,28 @@
 # 👋 Hi, I'm Kakarlamudi Venkata Dhanush
 
 ## 💫 About Me
-Backend developer experienced in building scalable FastAPI systems that serve 5k+ users at 200ms latency while delivering up to 50% efficiency gains through LLM-powered PostgreSQL solutions. Led multiple high-impact ML club projects that achieved 90%+ accuracy in real-time computer vision and GAN-based image synthesis systems.
+Backend developer with hands-on experience building scalable FastAPI systems serving 5K+ users at sub-200ms latency.
+Delivered up to 50% efficiency gains through LLM-powered PostgreSQL JSONB solutions. Led high-impact ML Club
+projects achieving 90%+ accuracy in real-time computer vision pipelines and GAN-based image synthesis systems.
 
 ---
 
 ## 💻 Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+Python • JavaScript • Java • C • C++ • SQL
 
 ### Backend & Systems
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
-![Microservices](https://img.shields.io/badge/Microservices-0A0A0A?style=for-the-badge)
-![Caching](https://img.shields.io/badge/Caching-4B8BBE?style=for-the-badge)
+FastAPI • Django • Flask • Node.js, REST APIs
 
 ### Databases & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
+PostgreSQL (JSONB) • Supabase • AWS • Oracle Cloud Infrastructure (OCI) • Render
 
 ### Data & Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)
+PyTorch • TensorFlow • OpenCV • Scikit-Learn • Pandas • NumPy • MediaPipe
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-4B8BBE?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=kvdhanush06&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=kvdhanush06&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kvdhanush06&theme=dark&hide_border=false&layout=compact)
+Git • GitHub • Postman
 
 ---
 
