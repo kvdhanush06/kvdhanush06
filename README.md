@@ -26,6 +26,15 @@ Git • GitHub • Postman
 
 ---
 
+## 🚀 Open Source Contributions
+
+**Prefect** [](https://www.linkedin.com/company/prefect/) – **[fastmcp](https://github.com/PrefectHQ/fastmcp)** – Leading Python framework for the Model Context Protocol (MCP)
+• Delivered FastAPI TestClient lifespan compatibility fix, eliminating RuntimeError in multiple test runs and improving developer testing reliability for the framework. [](https://github.com/PrefectHQ/fastmcp/pull/3736)
+• Engineered upstream_claims propagation in load_access_token, ensuring custom signed JWT claims survive token swaps and strengthening authentication consistency across MCP servers. [](https://github.com/PrefectHQ/fastmcp/pull/3750)
+Tech Stack: FastAPI, Starlette, Pydantic, OAuth2/JWT, pytest, ASGI lifespans
+
+---
+
 ## 🌐 Socials
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://allkvd.me/)
 [![Resume](https://img.shields.io/badge/Resume-000000?logo=adobepdf&logoColor=white)](https://drive.google.com/file/d/1NCT6ZCa_HfxCdScqI-1Q2yA6y2c7O-qA/view)
