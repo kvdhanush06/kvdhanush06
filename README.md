@@ -34,7 +34,7 @@ Git • GitHub • Postman
 
 • Engineered upstream_claims propagation in load_access_token, ensuring custom signed JWT claims survive token swaps and strengthening authentication consistency across MCP servers. [PR](https://github.com/PrefectHQ/fastmcp/pull/3750)
 
-Tech Stack: FastAPI, Starlette, Pydantic, OAuth2/JWT, pytest, ASGI lifespans
+Tech Stack: FastAPI, Pydantic, OAuth2/JWT, ASGI lifespans
 
 ---
 
