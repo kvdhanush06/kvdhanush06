@@ -34,6 +34,8 @@ Git • GitHub • Postman
 
 • Engineered upstream_claims propagation in load_access_token, ensuring custom signed JWT claims survive token swaps and strengthening authentication consistency across MCP servers. [PR](https://github.com/PrefectHQ/fastmcp/pull/3750)
 
+• Fixed OpenAPI 3.0 nullable fields in tool input schemas, converting nullable: true to proper JSON Schema unions and ensuring full compatibility with downstream MCP clients. [PR](https://github.com/PrefectHQ/fastmcp/pull/3768)
+
 Tech Stack: FastAPI, Pydantic, OAuth2/JWT, ASGI lifespans
 
 ---
