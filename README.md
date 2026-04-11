@@ -1,25 +1,26 @@
 # 👋 Hi, I'm Kakarlamudi Venkata Dhanush
 
 ## 💫 About Me
-Backend developer with hands-on experience building scalable FastAPI systems serving 5K+ users at sub-200ms latency.
-Delivered up to 50% efficiency gains through LLM-powered PostgreSQL JSONB solutions. Led high-impact ML Club
-projects achieving 90%+ accuracy in real-time computer vision pipelines and GAN-based image synthesis systems.
+Backend developer with experience designing and building scalable systems using FastAPI and Django.
+Worked on real-time and batch processing pipelines for 5K+ users, focusing on performance optimization,
+database efficiency, and reliable API design. Experience in backend systems, data processing, and
+production-grade API development.
 
 ---
 
 ## 💻 Tech Stack
 
 ### Languages
-Python • JavaScript • Java • C • C++ • SQL
+Python • SQL • JavaScript • Java • C • C++
 
 ### Backend & Systems
-FastAPI • Django • Flask • Node.js, REST APIs
+FastAPI • Django • Flask • REST APIs • SQLAlchemy • Alembic
 
 ### Databases & Cloud
-PostgreSQL (JSONB) • Supabase • AWS • Oracle Cloud Infrastructure (OCI) • Render
+PostgreSQL • Supabase • AWS • Oracle Cloud Infrastructure (OCI) • Render
 
 ### Data & Machine Learning
-PyTorch • TensorFlow • OpenCV • Scikit-Learn • Pandas • NumPy • MediaPipe
+PyTorch • OpenCV • Scikit-Learn • Pandas • NumPy
 
 ### Tools
 Git • GitHub • Postman
@@ -28,15 +29,18 @@ Git • GitHub • Postman
 
 ## 🚀 Open Source Contributions
 
-**[Prefect](https://www.linkedin.com/company/prefect/)** – **[FastMCP](https://github.com/PrefectHQ/fastmcp)** – Leading Python framework for the Model Context Protocol (MCP)
+**[Prefect](https://www.linkedin.com/company/prefect/)** – **[FastMCP](https://github.com/PrefectHQ/fastmcp)**
 
-• Delivered FastAPI TestClient lifespan compatibility fix, eliminating RuntimeError in multiple test runs and improving developer testing reliability for the framework. [PR](https://github.com/PrefectHQ/fastmcp/pull/3736)
+• Resolved FastAPI TestClient lifespan compatibility issue affecting async test environments.  
+[PR](https://github.com/PrefectHQ/fastmcp/pull/3736)
 
-• Engineered upstream_claims propagation in load_access_token, ensuring custom signed JWT claims survive token swaps and strengthening authentication consistency across MCP servers. [PR](https://github.com/PrefectHQ/fastmcp/pull/3750)
+• Implemented upstream_claims propagation for consistent JWT custom claim handling across services.  
+[PR](https://github.com/PrefectHQ/fastmcp/pull/3750)
 
-• Fixed OpenAPI 3.0 nullable fields in tool input schemas, converting nullable: true to proper JSON Schema unions and ensuring full compatibility with downstream MCP clients. [PR](https://github.com/PrefectHQ/fastmcp/pull/3768)
+• Fixed OpenAPI nullable schema generation bug, improving API client compatibility.  
+[PR](https://github.com/PrefectHQ/fastmcp/pull/3768)
 
-Tech Stack: FastAPI, Pydantic, OAuth2/JWT, ASGI lifespans
+Tech Stack: FastAPI, Pydantic, OAuth2/JWT
 
 ---
 
