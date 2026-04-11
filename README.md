@@ -31,14 +31,11 @@ Git • GitHub • Postman
 
 **[Prefect](https://www.linkedin.com/company/prefect/)** – **[FastMCP](https://github.com/PrefectHQ/fastmcp)**
 
-• Resolved FastAPI TestClient lifespan compatibility issue affecting async test environments.  
-[PR](https://github.com/PrefectHQ/fastmcp/pull/3736)
+• Resolved FastAPI TestClient lifespan compatibility issue affecting async test environments. [PR](https://github.com/PrefectHQ/fastmcp/pull/3736)
 
-• Implemented upstream_claims propagation for consistent JWT custom claim handling across services.  
-[PR](https://github.com/PrefectHQ/fastmcp/pull/3750)
+• Implemented upstream_claims propagation for consistent JWT custom claim handling across services. [PR](https://github.com/PrefectHQ/fastmcp/pull/3750)
 
-• Fixed OpenAPI nullable schema generation bug, improving API client compatibility.  
-[PR](https://github.com/PrefectHQ/fastmcp/pull/3768)
+• Fixed OpenAPI nullable schema generation bug, improving API client compatibility. [PR](https://github.com/PrefectHQ/fastmcp/pull/3768)
 
 Tech Stack: FastAPI, Pydantic, OAuth2/JWT
 
