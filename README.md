@@ -42,7 +42,7 @@ Tech Stack: FastAPI, Pydantic, OAuth2/JWT
 ---
 
 ## 🌐 Socials
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://allkvd.me/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://kvdhanush06.github.io/)
 [![Resume](https://img.shields.io/badge/Resume-000000?logo=adobepdf&logoColor=white)](https://drive.google.com/file/d/1NCT6ZCa_HfxCdScqI-1Q2yA6y2c7O-qA/view)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/venkata-dhanush-k)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white)](https://github.com/kvdhanush06)
