@@ -1,4 +1,4 @@
-# Hi, I'm Kakarlamudi Venkata Dhanush
+# Hi, I'm Venkata Dhanush Kakarlamudi
 
 ## About Me
 I am a backend engineer specializing in designing and building scalable backend architectures and data pipelines. My core focus includes optimizing database query performance, implementing secure authentication layers, and developing low-latency asynchronous APIs. In addition to system development, I contribute to open-source software, specifically focusing on addressing runtime lifespan issues and OpenAPI schema compliance within the Prefect FastMCP ecosystem to improve framework reliability for the developer community.
