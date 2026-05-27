@@ -47,4 +47,4 @@ Tech Stack: FastAPI, Pydantic, OAuth2/JWT
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30895562)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kvdhanush06@gmail.com)
 [![X](https://img.shields.io/badge/X-black?logo=X&logoColor=white)](https://x.com/kvdhanush06)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@UC8luCTH9QTvyiZPP6y4kLdg)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@kvdhanush0608)
