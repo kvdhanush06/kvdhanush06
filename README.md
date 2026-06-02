@@ -8,7 +8,7 @@ I am a backend engineer specializing in designing scalable distributed architect
 ## Tech Stack
 
 ### Languages
-Python • SQL • Java • JavaScript • C • C++
+Python • SQL • Java • JavaScript • C/C++
 
 ### Frameworks & Libraries
 FastAPI • Django • Flask • SQLAlchemy • Alembic • Pydantic
@@ -16,8 +16,11 @@ FastAPI • Django • Flask • SQLAlchemy • Alembic • Pydantic
 ### Databases & Messaging
 PostgreSQL • RabbitMQ • Supabase
 
-### Cloud, Architecture & Tools
-Amazon Web Services (AWS) • Oracle Cloud Infrastructure (OCI) • OAuth2/JWT • Git • GitHub • Postman
+### Cloud Services
+Amazon Web Services (AWS) • Oracle Cloud Infrastructure (OCI)
+
+### Tools
+Git • GitHub • Postman
 
 ---
 
@@ -35,13 +38,13 @@ Amazon Web Services (AWS) • Oracle Cloud Infrastructure (OCI) • OAuth2/JWT �
 
 ## Featured Projects
 
-### **[SociaSphere](https://github.com/kvdhanush06/SociaSphere)** – Social Media Backend [[Demo](https://youtu.be/pIHj1mT5XzU)] | [[Live](https://sociasphere.onrender.com/)]
+### **[SociaSphere](https://github.com/kvdhanush06/SociaSphere)** – Distributed Feed Optimization Engine & Session Service [[Demo](https://youtu.be/pIHj1mT5XzU)] | [[Live](https://sociasphere.onrender.com/)]
 * Developed a secure session-based authentication system, constructing server-side request validation layers to protect database entities from malformed data payloads.
 * Reduced feed query complexity from O(N) relational round-trips to O(1) single-query execution using explicit relationship prefetching and database annotations.
 
 **Tech Stack:** Django, PostgreSQL, REST APIs
 
-### **[EduToolsHub](https://github.com/kvdhanush06/EduToolsHub)** – Workflow Automation Platform [[Demo](https://youtu.be/Fe0io0Mu53A)] | [[Live](https://edutoolshub.onrender.com/)]
+### **[EduToolsHub](https://github.com/kvdhanush06/EduToolsHub)** – Fault-Tolerant Workflow Automation Platform [[Demo](https://youtu.be/Fe0io0Mu53A)] | [[Live](https://edutoolshub.onrender.com/)]
 * Integrated 4 external service APIs into a monolithic controller layer, enforcing explicit 5-second timeout boundaries and elegant empty-state schema fallbacks.
 * Built a secure, server-side rendered application utilizing a 3-layer input validation pipeline coupled with a dictionary-configured framework for structured logging.
 
