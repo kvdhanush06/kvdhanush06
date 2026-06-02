@@ -23,7 +23,7 @@ Amazon Web Services (AWS) • Oracle Cloud Infrastructure (OCI) • OAuth2/JWT �
 
 ## Open Source Contributions
 
-### **[Prefect](https://www.linkedin.com/company/prefect/)** – **[FastMCP](https://github.com/PrefectHQ/fastmcp)**
+### **[Prefect](https://www.linkedin.com/company/prefect/)** – **[FastMCP](https://github.com/PrefectHQ/fastmcp)** (25k+ Stars on GitHub)
 
 * Patched an asynchronous lifecycle state leak by dynamically provisioning a fresh session manager per runtime cycle, eliminating thread task-group failures in multi-run test suites. [[PR]](https://github.com/PrefectHQ/fastmcp/pull/3736)
 * Hardened token validation pipelines using thread-safe deep-copy model replication to propagate upstream identity claims across service boundaries without cross-request state pollution. [[PR]](https://github.com/PrefectHQ/fastmcp/pull/3750)
