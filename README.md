@@ -1,13 +1,24 @@
 # Hi, I'm Venkata Dhanush Kakarlamudi
 
-Software Engineer focused on **backend systems, distributed architectures, APIs, and AI-powered applications**.
+Backend & Systems Software Engineer specializing in **distributed architectures, high-throughput pipelines, API design, and database query optimization**.
 
-I build production-oriented software with an emphasis on reliability, database performance, background processing, caching, and scalable system design. My current work spans AI search, developer tooling, workflow automation, and full-stack products.
+I focus on building production-oriented, fault-tolerant backend software with an emphasis on low-latency data access, background queue processing, multi-layer caching, and microservices design.
 
-## Connect
+---
+
+## Highlights
+
+- **GATE 2026 CS Qualified** — Computer Science & Information Technology
+- **Ex-Software Engineer Intern** @ StudyCubs & AK Capital Advisors
+- **Open Source Contributor** to [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) (25k+ stars)
+- **Smart India Hackathon 2025** — National Round Qualifier
+
+---
+
+## Connect & Links
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://kvdhanush06.github.io/)
-[![Resume](https://img.shields.io/badge/Resume-000000?logo=adobepdf&logoColor=white)](https://drive.google.com/file/d/1NCT6ZCa_HfxCdScqI-1Q2yA6y2c7O-qA/view)
+[![Resume](https://img.shields.io/badge/Resume-000000?logo=adobepdf&logoColor=white)](https://kvdhanush06.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/venkata-dhanush-k)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/kvdhanush06)
 [![X](https://img.shields.io/badge/X-black?logo=X&logoColor=white)](https://x.com/kvdhanush06)
@@ -18,93 +29,70 @@ I build production-oriented software with an emphasis on reliability, database p
 
 ---
 
-## Current Focus
-
-- Building **CogniitSearch**, a distributed AI search platform with retrieval workers, streaming responses, citation validation, and multi-layer Redis caching.
-- Building and refining practical developer and productivity products such as **TermsGuard** and **AI Tools Directory**.
-- Working on backend architecture, API design, PostgreSQL performance, Redis caching, background jobs, and fault-tolerant workflows.
-- Contributing to open-source backend infrastructure and developer tooling, with recent merged contributions to **FastMCP**.
-
----
-
-## Looking For
-
-I am open to **Software Engineering, Backend Engineering, and New Graduate opportunities** where I can work on reliable backend systems, distributed architectures, AI infrastructure, APIs, and developer-focused products.
-
----
-
 ## Tech Stack
 
-### Languages
+- **Languages:** Python • TypeScript • JavaScript • SQL • Java • C/C++
+- **Frameworks & Libraries:** FastAPI • Express.js • Django • React • SQLAlchemy • Alembic • Pydantic
+- **Databases & Caching:** PostgreSQL • Redis • RabbitMQ • BullMQ • Supabase
+- **Cloud & Infrastructure:** AWS • OCI • Docker • Nginx
+- **Developer Tools:** Git • GitHub Actions • Postman
 
-Python • TypeScript • JavaScript • SQL • Java • C/C++
+---
 
-### Frameworks & Libraries
+## Work Experience
 
-FastAPI • Express.js • Django • React • SQLAlchemy • Alembic • Pydantic
+### **Software Engineer Intern** — StudyCubs *(Dec 2025 – Jan 2026)*
+- Architected a high-throughput data platform for **5K+ users**, offloading real-time webhooks and **180-day batch syncs** via RabbitMQ across **6 parallel worker streams**.
+- Reduced database lookup complexity from $O(N)$ table scans to $O(\log N)$ index seeks using a composite B-tree index on user and date fields for atomic upserts.
+- Engineered fault-tolerant ingestion pipelines via **500-item chunked bulk upserts** and nested transactions to isolate data failures and prevent full batch rollbacks.
 
-### Databases & Messaging
-
-PostgreSQL • Redis • RabbitMQ • BullMQ • Supabase
-
-### Cloud & Infrastructure
-
-AWS • OCI • Docker • Nginx
-
-### Tools
-
-Git • GitHub • Postman
+### **Software Engineer Intern** — AK Capital Advisors *(Jun 2025 – Aug 2025)*
+- Designed **30+ credit and loan REST APIs**, implementing strict financial domain validation via Pydantic schemas and OAuth2/JWT authentication dependencies.
+- Executed **9 database schema migrations** across **15 relational tables** and **2 views** using Alembic, maintaining strict data integrity via foreign keys and unique constraints.
+- Standardized API error semantics by deploying a centralized error catalog with explicit transactional rollbacks to preserve database state during failures.
 
 ---
 
 ## Open Source Contributions
 
-### FastMCP — 3 Merged PRs
+### **Prefect FastMCP** — Contributor *(25k+ Stars on GitHub)*
+Framework for building Model Context Protocol (MCP) servers and clients in Python.
 
-I contributed three fixes to FastMCP, a widely used Python framework for building MCP servers and clients:
-
-- **[PR #3736](https://github.com/PrefectHQ/fastmcp/pull/3736)** — Fixed FastAPI `TestClient` compatibility by creating isolated session managers for repeated lifespan execution.
-- **[PR #3750](https://github.com/PrefectHQ/fastmcp/pull/3750)** — Preserved `upstream_claims` from verified OAuth JWT payloads when constructing access-token claims.
-- **[PR #3768](https://github.com/PrefectHQ/fastmcp/pull/3768)** — Fixed OpenAPI 3.0 `nullable` handling during OpenAPI-to-JSON-Schema conversion.
-
-**Repository:** https://github.com/PrefectHQ/fastmcp
-
-**Tech:** FastAPI • Pydantic • OAuth2/JWT • OpenAPI • Python
+- **[PR #3736](https://github.com/PrefectHQ/fastmcp/pull/3736)** — Patched an asynchronous lifecycle state leak by dynamically provisioning a fresh session manager per runtime cycle, eliminating thread task-group failures in multi-run test suites.
+- **[PR #3750](https://github.com/PrefectHQ/fastmcp/pull/3750)** — Hardened token validation pipelines using thread-safe deep-copy model replication to propagate upstream identity claims across service boundaries without cross-request state pollution.
+- **[PR #3768](https://github.com/PrefectHQ/fastmcp/pull/3768)** — Resolved an OpenAPI-to-JSON Schema mismatch by intercepting nullable flags and injecting null parameters into enum constraints, protecting autogenerated client SDKs from runtime errors.
 
 ---
 
 ## Featured Projects
 
-### CogniitSearch — Distributed AI Search Platform
+### **CogniitSearch** — *Distributed Retrieval-Augmented Search Platform*
+- Architected a distributed retrieval platform coordinating **5 external services** and queue-backed workers processing **14 concurrent jobs** with retries and fault-tolerant recovery across search, retrieval, and LLM generation stages.
+- Reduced redundant retrieval workloads through multi-layer Redis caching (**1-hour query TTL**, **24-hour content TTL**), while implementing query rewriting, response streaming, citation validation, and multi-turn AI workflows.
+- **Tech Stack:** TypeScript, Node.js, Express.js, Redis, BullMQ, PostgreSQL, Supabase, React, Docker, Nginx
+- **[Live Demo](https://cogniitsearch.allkvd.dev/)** • **[Repository](https://github.com/kvdhanush06/CogniitSearch)**
 
-AI-powered search platform featuring distributed retrieval, streaming responses, citation-aware answers, and multi-source information retrieval.
+### **EduToolsHub** — *Fault-Tolerant Workflow Automation Platform*
+- Integrated **4 external service APIs** into a monolithic controller layer, enforcing explicit **5-second timeout boundaries** and structured fallback schemas.
+- Built a secure application utilizing a **3-layer input validation pipeline** coupled with a dictionary-configured framework for structured logging.
+- **Tech Stack:** Django, Python, Requests, PostgreSQL
+- **[Live Demo](https://edutoolshub.onrender.com/)** • **[Repository](https://github.com/kvdhanush06/EduToolsHub)**
 
-- Coordinates 5 external services through queue-backed workers processing concurrent retrieval jobs with retries and fault-tolerant recovery.
-- Uses multi-layer Redis caching with separate query and content TTL strategies to reduce redundant retrieval work.
-- Implements query rewriting, response streaming, citation validation, and multi-turn AI workflows.
+### **SociaSphere** — *Distributed Feed Optimization Engine & Session Service*
+- Developed a secure session-based authentication pipeline with JWT handling, implementing server-side request validation layers to protect database entities from malformed payloads.
+- Reduced feed query complexity from $O(N)$ relational round-trips to $O(1)$ single-query execution using explicit relationship prefetching and database annotations.
+- **Tech Stack:** Django, Python, PostgreSQL, REST APIs, JWT
+- **[Live Demo](https://sociasphere.onrender.com/)** • **[Repository](https://github.com/kvdhanush06/SociaSphere)**
 
-**[Live](https://cogniitsearch.allkvd.dev/)** • **[Repository](https://github.com/kvdhanush06/CogniitSearch)**
+### **TermsGuard** — *AI-Powered Legal Document Analyzer*
+- Browser extension and web analyzer that parses Terms of Service and Privacy Policies to surface actionable risk insights and clause breakdowns.
+- **[Live Demo](https://termsguard.allkvd.dev/)** • **[Repository](https://github.com/kvdhanush06/TermsGuard)**
 
-### TermsGuard — AI-Powered Legal Document Analyzer
+---
 
-Browser extension that analyzes Terms of Service, Privacy Policies, and user agreements to surface summaries, key clauses, risk levels, and actionable insights.
+## Opportunities
 
-**[Live](https://termsguard.allkvd.dev/)** • **[Repository](https://github.com/kvdhanush06/TermsGuard)**
-
-### AI Tools Directory — AI Tool Discovery Platform
-
-Curated directory for discovering, searching, and exploring AI tools across categories, optimized for SEO, performance, and responsive browsing.
-
-**[Live](https://aitoolsdirectory.allkvd.dev/)** • **[Repository](https://github.com/kvdhanush06/ai-tools-directory)**
-
-### EduToolsHub — Educational Productivity Platform
-
-Django-based platform combining study management, resource discovery, and workflow automation with integrations for Wikipedia, Google Books, Dictionary API, and YouTube search.
-
-**[Live](https://edutoolshub.onrender.com/)** • **[Repository](https://github.com/kvdhanush06/EduToolsHub)**
-
-### SociaSphere — Social Networking Platform
-
-Django and PostgreSQL application featuring authentication, profiles, content sharing, social relationships, discovery, and an optimized feed retrieval layer.
-
-**[Live](https://sociasphere.onrender.com/)** • **[Repository](https://github.com/kvdhanush06/SociaSphere)**
+I am actively seeking **Software Engineering, Backend Engineering, and SDE-1 opportunities** where I can build scalable microservices, high-throughput APIs, and distributed architectures.
+- **Email:** [kvdhanush06@gmail.com](mailto:kvdhanush06@gmail.com)
+- **LinkedIn:** [linkedin.com/in/venkata-dhanush-k](https://linkedin.com/in/venkata-dhanush-k)
+- **Portfolio:** [kvdhanush06.github.io](https://kvdhanush06.github.io/)
