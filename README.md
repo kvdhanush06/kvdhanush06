@@ -13,7 +13,7 @@ I focus on building production-oriented backend software with an emphasis on low
 - **Resume:** https://drive.google.com/file/d/1NCT6ZCa_HfxCdScqI-1Q2yA6y2c7O-qA/view
 - **LinkedIn:** https://www.linkedin.com/in/venkata-dhanush-k/
 - **X:** https://x.com/kvdhanush06
-- **YouTube:** https://www.youtube.com/@kvdhanush0608/videos
+- **YouTube:** https://www.youtube.com/@kvdhanush0608
 - **Medium:** https://medium.com/@kvdhanush06
 - **Stack Overflow:** https://stackoverflow.com/users/30895562/venkata-dhanush-kakarlamudi
 
